@@ -101,11 +101,7 @@
                         </li>
                         <li>
                             <label><i class="fa fa-search"></i> Search based on Bus Number :</label>
-                            <select>
-                                <option value="1">--Choose--</option>
-                                <option value="2">Dolphin Travels</option>
-                                <option value="3">Nimit Travels</option>
-                            </select>
+                            <input type="text" name="searchbus">
                     </ul>
                 </div>
                 <div class="table">
