@@ -92,13 +92,20 @@
                         <li><a href="#" class="btn"><i class="fa fa-minus-square-o"></i>Delete</a></li>
                         <li><a href="Updatebus.php" class="btn"><i class="fa fa-pencil-square-o"></i>Update</a></li>
                         <li>
-                            <label><i class="fa fa-pencil-square-o"></i> Agency :</label>
+                            <label><i class="fa fa-university"></i> Agency :</label>
                             <select>
                                 <option value="1">--Choose--</option>
                                 <option value="2">Dolphin Travels</option>
                                 <option value="3">Nimit Travels</option>
                             </select>
                         </li>
+                        <li>
+                            <label><i class="fa fa-search"></i> Search based on Bus Number :</label>
+                            <select>
+                                <option value="1">--Choose--</option>
+                                <option value="2">Dolphin Travels</option>
+                                <option value="3">Nimit Travels</option>
+                            </select>
                     </ul>
                 </div>
                 <div class="table">
